@@ -1,7 +1,7 @@
 # yo.
 
 <p align="center">
-  <img src="totoro.gif" alt="Totoro Pixel Art" width="600"/>
+  <img src="rain.gif" alt="Totoro Pixel Art" width="600"/>
 </p>
 
 ---
