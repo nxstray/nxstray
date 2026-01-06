@@ -1,11 +1,8 @@
-# Hi, I'm Afwan
+# Nice to meet you, fella
 
 <p align="center">
   <img src="totoro.gif" alt="Totoro Pixel Art" width="320"/>
 </p>
-
-I am a computer science graduate with a strong interest in software development and continuous learning.
-Alongside building applications, I enjoy exploring creative ideas such as pixel art as a way to balance technical and visual thinking.
 
 ---
 
@@ -29,10 +26,3 @@ Alongside building applications, I enjoy exploring creative ideas such as pixel 
 
 Curiosity has always driven me to explore how systems and applications work.
 I focus on building maintainable, user-friendly software while continuously improving my technical skills.
-
----
-
-## Notes
-
-Totoro is a character owned by Studio Ghibli.
-This artwork is used for personal and non-commercial purposes.
