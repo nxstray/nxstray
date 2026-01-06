@@ -1,7 +1,7 @@
-# Nice to meet you, fella
+# yo.
 
 <p align="center">
-  <img src="totoro.gif" alt="Totoro Pixel Art" width="320"/>
+  <img src="totoro.gif" alt="Totoro Pixel Art" width="600"/>
 </p>
 
 ---
@@ -19,6 +19,9 @@
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-323330?style=flat&logo=postgresql&logoColor=4169E1)
 ![Docker](https://img.shields.io/badge/Docker-323330?style=flat&logo=docker&logoColor=2496ED)
+
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-323330?style=flat&logo=rabbitmq&logoColor=FF6600)
+
 
 ---
 
